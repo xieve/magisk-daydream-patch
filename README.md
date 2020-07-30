@@ -4,6 +4,7 @@ This module simply replaces your device model with a different one in `build.pro
 Here's some compatible devices:
 
 | ID (codename) | Device | Dimensions | Resolution |
+| --- | --- | --- | --- |
 | blueline | Pixel 3 | 145.6mm×68.2mm | 2160×1080 |
 | crosshatch | Pixel 3 XL | 158mm×78.7mm | 2960×1440 |
 | starlte | Galaxy S9? | 147.7mm×68.7 | 2960×1440 |
