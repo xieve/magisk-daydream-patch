@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=daydream
+name=Daydream Unlocker
+version=v0.0.1
+versionCode=1
+author=xieve
+description=Unlocks Daydream support on any device by patching build.prop to spoof the device ID
+support=https://github.com/xieve/magisk-daydream-patch/issues

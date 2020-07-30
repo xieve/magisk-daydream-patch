@@ -1,35 +1,14 @@
-<h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
+# Magisk Daydream Patch
+This module simply replaces your device model with a different one in `build.prop`. You can try and replace the value (located in `system.prop` with other codenames, to adapt to different sizes, resolutions and obviously pixel density.
 
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v1.5-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-March 27, 2020-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-</div>
+Here's some compatible devices:
 
-<div align="center">
-  <strong>MMT Extended is the spiritual successor of Unity and makes magisk module creation easy. More details in the 
-    <a href="https://github.com/Zackptg5/MMT-Extended/wiki">wiki</a>.
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://github.com/Zackptg5/MMT-Extended">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/MMT-Extended-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819">
-      XDA
-    </a>
-  </h3>
-</div>
-
-### Usage
-- [Follow the directions here (DO NOT FORK)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-- Then follow instructions in [Wiki](https://github.com/Zackptg5/MMT-Extended/wiki)
+| ID (codename) | Device | Dimensions | Resolution |
+| blueline | Pixel 3 | 145.6mm×68.2mm | 2160×1080 |
+| crosshatch | Pixel 3 XL | 158mm×78.7mm | 2960×1440 |
+| starlte | Galaxy S9? | 147.7mm×68.7 | 2960×1440 |
+| star2lte | Galaxy S9+ | 158.1mm×73.8mm | 2960×1440 |
+| walleye | Pixel 2 | 145.7mm×69.7mm | 1920×1080 |
+| taimen | Pixel 2 XL | 157.9mm×76.7mm | 2880×1440 |
+| dreamlte | Galaxy S8 | 148.9mm×68.1mm | 2960×1440 |
+| dream2lte | Galaxy S8+? | 159.5mm×73.4mm | 2960×1440 |
